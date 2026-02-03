@@ -1,0 +1,7 @@
+{
+  "name": "TravelLog AI",
+  "description": "A voice-first travel journaling app that converts Hinglish transcripts into professional editorial blogs using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
